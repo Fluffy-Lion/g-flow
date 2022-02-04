@@ -7,6 +7,9 @@ const App = () => {
       <h1>from leon</h1>
       <div>
         <button>click meh</button>
+        <p>
+          sometimes phonk is good, this is a lie, because its always good
+        </p>
       </div>
     </div>
   )
