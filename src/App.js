@@ -9,9 +9,7 @@ const App = () => {
       <div>
         <button>click meh</button>
         <p>
-
-          updates updates updates from leon
-          
+          add some new content for content
         </p>
       </div>
     </div>
