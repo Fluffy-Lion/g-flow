@@ -9,7 +9,8 @@ const App = () => {
       <div>
         <button>click meh</button>
         <p>
-          updates updates updates from ninja
+
+          content
         </p>
         <h2>im from the leon branch</h2>
       </div>
