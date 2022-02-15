@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   return (
     <div>
-      <h1>header update</h1>
+      <h1>Header Update</h1>
       <h2>hello from header branch</h2>
       <div>
         <button>click meh</button>
