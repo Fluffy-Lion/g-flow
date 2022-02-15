@@ -12,6 +12,7 @@ const App = () => {
           sometimes phonk is good, this is a lie, because its always good
           this is an update from change branch
         </p>
+        <h2>im from the leon branch</h2>
       </div>
     </div>
   )
