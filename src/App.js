@@ -9,8 +9,7 @@ const App = () => {
       <div>
         <button>click meh</button>
         <p>
-          sometimes phonk is good, this is a lie, because its always good
-          this is an update from change branch
+          updates updates updates from ninja
         </p>
         <h2>im from the leon branch</h2>
       </div>
