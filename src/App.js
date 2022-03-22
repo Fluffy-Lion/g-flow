@@ -23,8 +23,8 @@ const App = () => {
   }, [])
   return (
     <div >
-      <h1>header update</h1>
-      <h2>hello from header branch</h2>
+      <h1>better title here</h1>
+      <h2>hello from leon branch</h2>
       <div>
         <button>click meh</button>
         <Card data={data} />
