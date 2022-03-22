@@ -22,7 +22,7 @@ const App = () => {
     handleFetch()
   }, [])
   return (
-    <div style={{ border: "solid grey 3px" }}>
+    <div style={{ border: "dotted orange 3px" }}>
       <h1>better title here</h1>
       <h2>hello from leon branch</h2>
       <div>
